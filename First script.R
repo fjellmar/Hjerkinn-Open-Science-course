@@ -22,7 +22,12 @@ remotes::install_github("LivingNorway/LivingNorwayR") # now it works!
 library(checker)
 chk_requirements(path = url("https://raw.githubusercontent.com/audhalbritter/ort_science_course/main/R/OS_course_requirements.yaml"))
 
+# connect to github
+library(usethis)
+use_git_config(
+  user.name = "fjellmar", 
+  user.email = "mari.fjelldal@gmail.com"
+)
 
-
-
+usethis::use_git()
 
