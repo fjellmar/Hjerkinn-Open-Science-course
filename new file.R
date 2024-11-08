@@ -22,4 +22,4 @@ boxplot(x,y)
 # hello again
 
 # doing some more work
-
+# now the bug is fixed
