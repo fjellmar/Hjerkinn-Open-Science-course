@@ -15,3 +15,6 @@ clean_messy_data$species_name <- ifelse(clean_messy_data$species_name == "Lagopa
 
 # testing the merge 
 
+x<-1
+y<-2
+plot(x,y)
