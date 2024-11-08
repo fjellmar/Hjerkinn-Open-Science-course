@@ -23,3 +23,6 @@ boxplot(x,y)
 
 # doing some more work
 # now the bug is fixed
+
+# making a merge conflict
+
