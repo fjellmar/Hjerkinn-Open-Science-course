@@ -24,9 +24,7 @@ boxplot(x,y)
 # doing some more work
 # now the bug is fixed
 
-<<<<<<< HEAD
-# making a merge conflict
 
-=======
+# making a merge conflict
 # edit in github to create a merge conflict
->>>>>>> 00950869e34608627e297fb1497c464f37f0291c
+
