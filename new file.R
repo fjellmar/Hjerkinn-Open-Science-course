@@ -15,3 +15,8 @@ clean_messy_data$species_name <- ifelse(clean_messy_data$species_name == "Lagopa
 
 # testing the merge 
 
+x<-c(1,2,3)
+y<-c(2,4,6)
+plot(x,y)
+boxplot(x,y)
+# hello again
