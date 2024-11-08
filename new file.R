@@ -18,6 +18,6 @@ clean_messy_data$species_name <- ifelse(clean_messy_data$species_name == "Lagopa
 x<-c(1,2,3)
 y<-c(2,4,6)
 plot(x,y)
-boxplot(x,y)
+boxplot(x,Y)
 # hello again
 
