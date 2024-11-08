@@ -13,3 +13,5 @@ clean_messy_data$species_name <- ifelse(clean_messy_data$species_name == "Lagopa
                                         "L. lagopus", 
                                         "L. muta")
 
+# testing the merge 
+
