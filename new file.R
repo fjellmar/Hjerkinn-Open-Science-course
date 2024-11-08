@@ -23,3 +23,5 @@ boxplot(x,y)
 
 # doing some more work
 # now the bug is fixed
+
+# edit in github to create a merge conflict
