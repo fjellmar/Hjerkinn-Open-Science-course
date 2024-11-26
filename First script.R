@@ -104,5 +104,5 @@ usethis::use_course("biostats-r/targets_workflow_svalbard")
 
 #### git and Github ####
 
-
+# trying out a push with new github credentials
 
